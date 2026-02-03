@@ -1,4 +1,5 @@
 # Advance-Java-Programming
+# Roll No. 202510116100036
 
 ## Goals
 - Practice Java daily.
@@ -7,5 +8,6 @@
 ##  Progress Tracker
 | Date       | Topic/Problem        | 
 |------------|----------------------|
-| 02/02/2026 | Constructors & Basic | 
+| 02/02/2026 | Constructors & Basic |
+| 03/02/2026 | Class-Object, String & Inheritance|
 
