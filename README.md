@@ -8,7 +8,7 @@
 ##  Progress Tracker
 | Date       | Topic/Problem        | 
 |------------|----------------------|
-| 02/02/2026 | Constructors & Basic |
+| 02/02/2026 | Constructors & Basics |
 | 03/02/2026 | Class-Object, String & Inheritance|
 | 04/02/2026 | Interfaces|
 | 06/02/2026 | Polymorphism|
