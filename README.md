@@ -14,4 +14,5 @@
 | 06/02/2026 | Polymorphism|
 | 09/02/2026 | Encapsulation|
 | 16/02/2026 | Functional Interface & Java-8 |
-| 17/02/2026 | Lambda Expression & Method Referencing |
+| 17/02/2026 | Lambda Expression |
+| 18/02/2026 | Method Referencing |
