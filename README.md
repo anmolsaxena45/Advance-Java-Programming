@@ -16,3 +16,5 @@
 | 16/02/2026 | Functional Interface & Java-8 |
 | 17/02/2026 | Lambda Expression |
 | 18/02/2026 | Method Referencing |
+| 20/02/2026 | Unit-1 Assignment |
+| 21/02/2026 | CA-1 Assignment |
