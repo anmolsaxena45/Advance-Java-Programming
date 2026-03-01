@@ -6,7 +6,7 @@
 - Improve problem-solving and algorithmic thinking.
 
 ##  Progress Tracker
-| Date       | Topic/Problems       | 
+| Date       | Topic/Problem       | 
 |------------|----------------------|
 | 02/02/2026 | Constructors & Basics |
 | 03/02/2026 | Class-Object, String & Inheritance|
