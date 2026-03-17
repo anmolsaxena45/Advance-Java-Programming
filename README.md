@@ -20,3 +20,4 @@
 | 22/02/2026 | CA-1 Assignment-1|
 | 23/02/2026 | Record class & var |
 | 24/02/2026 | Switch Expression & Sealed Class |
+| 16/03/2026 | Stream API |
