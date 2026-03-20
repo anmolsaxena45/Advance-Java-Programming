@@ -6,6 +6,7 @@
 - Improve problem-solving and algorithmic thinking.
 
 ##  Progress Tracker
+### February
 | Date       | Topics/Problems| 
 |------------|----------------------|
 | 02/02/2026 | Constructors & Basics |
@@ -20,4 +21,10 @@
 | 22/02/2026 | CA-1 Assignment-1|
 | 23/02/2026 | Record class & var |
 | 24/02/2026 | Switch Expression & Sealed Class |
+
+### March
+| Date       | Topics/Problems| 
+|------------|----------------------|
 | 16/03/2026 | Stream API |
+| 17/03/26 | .filter() |
+| 20/03/26 | .map() |
