@@ -104,6 +104,34 @@ public class FilterAPI {
 		System.out.println();System.out.println();System.out.println();System.out.println();
 
 		
+		ArrayList <String> Q10 = new ArrayList<>();
+		Q10.addAll(List.of("Java", "Python", "Scala", "Kotlin"));
+		System.out.println("list-10: "+ Q10);
+		Q10.stream().filter(n-> n.endsWith("a")).forEach(n-> System.out.print(n + " "));
+		
+		
+		
+		System.out.println();System.out.println();System.out.println();System.out.println();
+
+		
+		ArrayList <Integer> Q11 = new ArrayList<>();
+		Q11.addAll(List.of(-5, 10, -3, 20, 15));
+		System.out.println("list-11: "+ Q11);
+		Q11.stream().filter((n)-> n>0).forEach((n)->System.out.print(n+" "));
+		
+		
+		System.out.println();System.out.println();System.out.println();System.out.println();
+
+		
+		ArrayList <Integer> Q12 = new ArrayList<>();
+		Q12.addAll(List.of(10, 25, 30, 40));
+		System.out.println("list-12: "+ Q12);
+		Q12.stream().filter((n)-> n<30).forEach((n)->System.out.print(n+" "));
+		
+		
+		System.out.println();System.out.println();System.out.println();System.out.println();
+
+		
 		ArrayList <Integer> Q13 = new ArrayList<>();
 		Q13.addAll(List.of(10, 15, 20, 25, 30, 11, 17, 16));
 		System.out.println("list-13: "+ Q13);
@@ -112,16 +140,22 @@ public class FilterAPI {
 		
 		System.out.println();System.out.println();System.out.println();System.out.println();
 
-		
-		
+
 		ArrayList <String> Q14 = new ArrayList<>();
 		Q14.addAll(List.of("Java", "Python", "C", "React", "C#", "Next.js", "Node.js"));
 		System.out.println("list-14: "+ Q14);
 		Q14.stream().filter((n)-> n.length()>4).forEach((n)->System.out.print(n+" "));
 		
+		
 		System.out.println();System.out.println();System.out.println();System.out.println();
 
 		
+		ArrayList <Integer> Q15 = new ArrayList<>();
+		Q15.addAll(List.of(10, 15, 20, 25, 30, 35));
+		System.out.println("list-15: "+ Q15);
+		Q15.stream().filter((n)-> n>15).filter(n->n%2 == 0).forEach((n)->System.out.print(n+" "));
 		
+		
+		System.out.println();System.out.println();System.out.println();System.out.println();
 	}
 }
