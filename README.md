@@ -31,3 +31,4 @@
 | 23/03/26 | .reduce() |
 | 24/03/26 | .sorted() |
 | 25/03/26 | .min() & .max()|
+| 30/03/26 | Stream Assignment |
