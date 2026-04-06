@@ -26,9 +26,14 @@
 | Date       | Topics/Problems| 
 |------------|----------------------|
 | 16/03/2026 | Stream API |
-| 17/03/26 | .filter() |
-| 19/03/26 | .map() |
-| 23/03/26 | .reduce() |
-| 24/03/26 | .sorted() |
-| 25/03/26 | .min() & .max()|
-| 30/03/26 | Stream Assignment |
+| 17/03/2026 | .filter() |
+| 19/03/2026 | .map() |
+| 23/03/2026 | .reduce() |
+| 24/03/2026 | .sorted() |
+| 25/03/2026 | .min() & .max()|
+| 30/03/2026 | Stream Assignment |
+
+### April
+| Date       | Topics/Problems| 
+|------------|----------------------|
+| 05/04/2026 | JDBC |
